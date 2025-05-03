@@ -1,0 +1,2001 @@
+text,label
+"""line the boat up with the arrow!""",3
+"""change scenery!""",4
+"""go back to main menu now""",1
+"""close the game and return to menu now""",1
+"""match boat direction to arrow!""",3
+"""align the boat!""",3
+"""bring up the pause menu!""",0
+"""begin the mission""",2
+"""load another environment immediately""",4
+"""let's play please""",2
+"""close the game and return to menu.""",1
+"""leave to main menu please""",1
+"""resume game now""",2
+"""switch to a different map""",4
+"""exit to the main screen please""",1
+"""close the game and return to menu now""",1
+"""start playing the game now""",2
+"""go back to main menu immediately""",1
+"""let's play immediately""",2
+"""adjust kayak to arrow.""",3
+"""start playing the game now""",2
+"""open the pause menu now""",0
+"""open the pause menu immediately""",0
+"""show pause screen now""",0
+"""leave to main menu immediately""",1
+"""begin the mission.""",2
+"""match boat direction to arrow.""",3
+"""begin the mission immediately""",2
+"""open the pause menu immediately""",0
+"""pause the game now!""",0
+"""match boat direction to arrow.""",3
+"""pause the game now.""",0
+"""quit game and return now""",1
+"""let's play please""",2
+"""load another environment please""",4
+"""adjust kayak to arrow.""",3
+"""start the game now""",2
+"""activate the pause menu.""",0
+"""change the environment immediately""",4
+"""match boat direction to arrow""",3
+"""line the boat up with the arrow immediately""",3
+"""change to another place please""",4
+"""leave to main menu!""",1
+"""quit game and return immediately""",1
+"""line the boat up with the arrow!""",3
+"""leave to main menu.""",1
+"""close the game and return to menu!""",1
+"""switch to a different map now""",4
+"""quit game and return now""",1
+"""line the boat up with the arrow please""",3
+"""change scenery""",4
+"""change the environment""",4
+"""change scenery immediately""",4
+"""line the boat up with the arrow please""",3
+"""show pause screen immediately""",0
+"""change to another place immediately""",4
+"""leave to main menu.""",1
+"""open the pause menu please""",0
+"""exit to the main screen immediately""",1
+"""align the boat.""",3
+"""adjust kayak to arrow!""",3
+"""close the game and return to menu.""",1
+"""open the pause menu please""",0
+"""let's play""",2
+"""close the game and return to menu immediately""",1
+"""load another environment.""",4
+"""switch to a different map now""",4
+"""open the pause menu.""",0
+"""line the boat up with the arrow.""",3
+"""open the pause menu.""",0
+"""exit to the main screen""",1
+"""quit game and return.""",1
+"""match boat direction to arrow immediately""",3
+"""load another environment please""",4
+"""exit to the main screen.""",1
+"""close the game and return to menu!""",1
+"""show pause screen please""",0
+"""exit to the main screen""",1
+"""quit game and return.""",1
+"""line the boat up with the arrow please""",3
+"""position the boat with the pointer""",3
+"""start playing the game now""",2
+"""exit to the main screen immediately""",1
+"""switch to a different map now""",4
+"""show pause screen.""",0
+"""match boat direction to arrow""",3
+"""activate the pause menu immediately""",0
+"""load another environment.""",4
+"""change the environment.""",4
+"""quit game and return now""",1
+"""let's play""",2
+"""bring up the pause menu immediately""",0
+"""pause the game now!""",0
+"""start the game now""",2
+"""align the boat!""",3
+"""pause the game now""",0
+"""change the environment immediately""",4
+"""open the pause menu now""",0
+"""change scenery immediately""",4
+"""go back to main menu!""",1
+"""activate the pause menu""",0
+"""align the boat!""",3
+"""switch to a different map immediately""",4
+"""bring up the pause menu immediately""",0
+"""show pause screen now""",0
+"""match boat direction to arrow!""",3
+"""pause the game now now""",0
+"""let's play now""",2
+"""resume game!""",2
+"""pause the game now immediately""",0
+"""start playing the game""",2
+"""begin the mission now""",2
+"""start the game now now""",2
+"""quit game and return immediately""",1
+"""open the pause menu.""",0
+"""quit game and return!""",1
+"""start the game now immediately""",2
+"""quit game and return please""",1
+"""align the boat immediately""",3
+"""load another environment""",4
+"""change scenery now""",4
+"""quit game and return.""",1
+"""go back to main menu.""",1
+"""match boat direction to arrow.""",3
+"""adjust kayak to arrow immediately""",3
+"""exit to the main screen""",1
+"""let's play now""",2
+"""begin the mission""",2
+"""begin the mission""",2
+"""adjust kayak to arrow""",3
+"""pause the game now""",0
+"""start the game now immediately""",2
+"""bring up the pause menu!""",0
+"""show pause screen immediately""",0
+"""load another environment""",4
+"""load another environment.""",4
+"""line the boat up with the arrow.""",3
+"""exit to the main screen!""",1
+"""match boat direction to arrow""",3
+"""change to another place now""",4
+"""position the boat with the pointer now""",3
+"""load another environment please""",4
+"""load another environment now""",4
+"""line the boat up with the arrow now""",3
+"""quit game and return.""",1
+"""bring up the pause menu!""",0
+"""pause the game now!""",0
+"""activate the pause menu""",0
+"""match boat direction to arrow now""",3
+"""switch to a different map!""",4
+"""quit game and return immediately""",1
+"""load another environment please""",4
+"""exit to the main screen.""",1
+"""load another environment immediately""",4
+"""close the game and return to menu please""",1
+"""open the pause menu immediately""",0
+"""switch to a different map""",4
+"""let's play""",2
+"""load another environment immediately""",4
+"""change to another place""",4
+"""let's play!""",2
+"""resume game please""",2
+"""exit to the main screen please""",1
+"""let's play please""",2
+"""change scenery immediately""",4
+"""start the game now""",2
+"""change to another place!""",4
+"""bring up the pause menu""",0
+"""bring up the pause menu!""",0
+"""align the boat now""",3
+"""load another environment please""",4
+"""bring up the pause menu now""",0
+"""activate the pause menu.""",0
+"""begin the mission""",2
+"""pause the game now!""",0
+"""load another environment.""",4
+"""line the boat up with the arrow please""",3
+"""change the environment""",4
+"""activate the pause menu""",0
+"""show pause screen!""",0
+"""activate the pause menu immediately""",0
+"""pause the game now!""",0
+"""resume game""",2
+"""exit to the main screen now""",1
+"""position the boat with the pointer""",3
+"""load another environment!""",4
+"""resume game""",2
+"""open the pause menu!""",0
+"""change to another place.""",4
+"""adjust kayak to arrow.""",3
+"""switch to a different map""",4
+"""exit to the main screen now""",1
+"""load another environment please""",4
+"""bring up the pause menu!""",0
+"""activate the pause menu.""",0
+"""start playing the game.""",2
+"""bring up the pause menu please""",0
+"""change the environment please""",4
+"""line the boat up with the arrow.""",3
+"""open the pause menu""",0
+"""switch to a different map""",4
+"""load another environment now""",4
+"""bring up the pause menu.""",0
+"""exit to the main screen""",1
+"""open the pause menu.""",0
+"""quit game and return now""",1
+"""switch to a different map immediately""",4
+"""let's play!""",2
+"""match boat direction to arrow!""",3
+"""pause the game now!""",0
+"""open the pause menu""",0
+"""align the boat""",3
+"""resume game now""",2
+"""close the game and return to menu""",1
+"""show pause screen""",0
+"""begin the mission immediately""",2
+"""show pause screen now""",0
+"""close the game and return to menu.""",1
+"""adjust kayak to arrow please""",3
+"""align the boat.""",3
+"""position the boat with the pointer immediately""",3
+"""close the game and return to menu please""",1
+"""load another environment please""",4
+"""change to another place please""",4
+"""change the environment now""",4
+"""go back to main menu immediately""",1
+"""let's play now""",2
+"""resume game immediately""",2
+"""start the game now immediately""",2
+"""change scenery!""",4
+"""line the boat up with the arrow now""",3
+"""close the game and return to menu!""",1
+"""align the boat please""",3
+"""align the boat.""",3
+"""load another environment.""",4
+"""align the boat please""",3
+"""go back to main menu now""",1
+"""switch to a different map please""",4
+"""start playing the game""",2
+"""switch to a different map!""",4
+"""load another environment!""",4
+"""close the game and return to menu please""",1
+"""go back to main menu please""",1
+"""resume game!""",2
+"""begin the mission""",2
+"""begin the mission please""",2
+"""activate the pause menu!""",0
+"""let's play""",2
+"""quit game and return please""",1
+"""match boat direction to arrow please""",3
+"""align the boat.""",3
+"""show pause screen""",0
+"""pause the game now now""",0
+"""change the environment please""",4
+"""change scenery.""",4
+"""resume game now""",2
+"""pause the game now""",0
+"""position the boat with the pointer please""",3
+"""open the pause menu""",0
+"""let's play""",2
+"""position the boat with the pointer please""",3
+"""change the environment now""",4
+"""show pause screen now""",0
+"""show pause screen now""",0
+"""leave to main menu""",1
+"""exit to the main screen""",1
+"""match boat direction to arrow.""",3
+"""change scenery""",4
+"""quit game and return.""",1
+"""leave to main menu!""",1
+"""switch to a different map!""",4
+"""switch to a different map please""",4
+"""adjust kayak to arrow please""",3
+"""line the boat up with the arrow please""",3
+"""close the game and return to menu""",1
+"""exit to the main screen""",1
+"""show pause screen please""",0
+"""close the game and return to menu""",1
+"""start playing the game!""",2
+"""open the pause menu!""",0
+"""align the boat please""",3
+"""change the environment""",4
+"""exit to the main screen""",1
+"""change scenery.""",4
+"""exit to the main screen""",1
+"""exit to the main screen.""",1
+"""activate the pause menu.""",0
+"""line the boat up with the arrow""",3
+"""go back to main menu now""",1
+"""line the boat up with the arrow immediately""",3
+"""show pause screen now""",0
+"""pause the game now.""",0
+"""start the game now""",2
+"""open the pause menu!""",0
+"""match boat direction to arrow now""",3
+"""quit game and return!""",1
+"""start the game now immediately""",2
+"""change to another place.""",4
+"""change to another place""",4
+"""bring up the pause menu now""",0
+"""start playing the game now""",2
+"""leave to main menu.""",1
+"""resume game now""",2
+"""load another environment""",4
+"""switch to a different map""",4
+"""open the pause menu now""",0
+"""line the boat up with the arrow!""",3
+"""start playing the game immediately""",2
+"""start the game now!""",2
+"""adjust kayak to arrow now""",3
+"""line the boat up with the arrow please""",3
+"""go back to main menu""",1
+"""exit to the main screen immediately""",1
+"""position the boat with the pointer now""",3
+"""change scenery""",4
+"""begin the mission""",2
+"""start the game now now""",2
+"""let's play.""",2
+"""position the boat with the pointer please""",3
+"""change the environment immediately""",4
+"""change scenery now""",4
+"""change the environment""",4
+"""load another environment please""",4
+"""change scenery please""",4
+"""position the boat with the pointer.""",3
+"""start the game now immediately""",2
+"""bring up the pause menu immediately""",0
+"""start the game now immediately""",2
+"""begin the mission""",2
+"""begin the mission immediately""",2
+"""position the boat with the pointer""",3
+"""quit game and return""",1
+"""leave to main menu!""",1
+"""quit game and return""",1
+"""change scenery please""",4
+"""change the environment now""",4
+"""let's play!""",2
+"""resume game!""",2
+"""let's play.""",2
+"""activate the pause menu.""",0
+"""switch to a different map please""",4
+"""line the boat up with the arrow""",3
+"""quit game and return now""",1
+"""match boat direction to arrow now""",3
+"""load another environment please""",4
+"""quit game and return!""",1
+"""load another environment.""",4
+"""show pause screen.""",0
+"""change the environment""",4
+"""begin the mission""",2
+"""open the pause menu!""",0
+"""start the game now please""",2
+"""quit game and return please""",1
+"""show pause screen immediately""",0
+"""change the environment now""",4
+"""change scenery""",4
+"""bring up the pause menu""",0
+"""adjust kayak to arrow please""",3
+"""adjust kayak to arrow immediately""",3
+"""start playing the game""",2
+"""change the environment please""",4
+"""align the boat now""",3
+"""open the pause menu""",0
+"""align the boat immediately""",3
+"""show pause screen please""",0
+"""activate the pause menu.""",0
+"""let's play please""",2
+"""go back to main menu.""",1
+"""show pause screen immediately""",0
+"""show pause screen!""",0
+"""match boat direction to arrow please""",3
+"""close the game and return to menu immediately""",1
+"""change to another place please""",4
+"""adjust kayak to arrow immediately""",3
+"""exit to the main screen please""",1
+"""bring up the pause menu.""",0
+"""go back to main menu!""",1
+"""change the environment immediately""",4
+"""align the boat immediately""",3
+"""change scenery please""",4
+"""leave to main menu please""",1
+"""resume game""",2
+"""adjust kayak to arrow please""",3
+"""open the pause menu now""",0
+"""align the boat!""",3
+"""change scenery""",4
+"""position the boat with the pointer""",3
+"""leave to main menu now""",1
+"""close the game and return to menu now""",1
+"""open the pause menu immediately""",0
+"""adjust kayak to arrow""",3
+"""show pause screen!""",0
+"""show pause screen""",0
+"""start the game now please""",2
+"""adjust kayak to arrow!""",3
+"""change to another place now""",4
+"""resume game immediately""",2
+"""line the boat up with the arrow.""",3
+"""activate the pause menu immediately""",0
+"""position the boat with the pointer.""",3
+"""position the boat with the pointer!""",3
+"""open the pause menu.""",0
+"""quit game and return.""",1
+"""line the boat up with the arrow.""",3
+"""exit to the main screen now""",1
+"""leave to main menu""",1
+"""switch to a different map now""",4
+"""change scenery""",4
+"""go back to main menu""",1
+"""pause the game now now""",0
+"""line the boat up with the arrow please""",3
+"""bring up the pause menu!""",0
+"""open the pause menu""",0
+"""align the boat.""",3
+"""open the pause menu.""",0
+"""leave to main menu!""",1
+"""position the boat with the pointer immediately""",3
+"""show pause screen now""",0
+"""open the pause menu""",0
+"""leave to main menu.""",1
+"""activate the pause menu immediately""",0
+"""let's play immediately""",2
+"""change scenery now""",4
+"""change to another place please""",4
+"""match boat direction to arrow""",3
+"""close the game and return to menu immediately""",1
+"""pause the game now""",0
+"""load another environment""",4
+"""go back to main menu now""",1
+"""open the pause menu please""",0
+"""go back to main menu immediately""",1
+"""show pause screen.""",0
+"""bring up the pause menu now""",0
+"""line the boat up with the arrow.""",3
+"""load another environment now""",4
+"""load another environment immediately""",4
+"""adjust kayak to arrow immediately""",3
+"""exit to the main screen now""",1
+"""switch to a different map.""",4
+"""match boat direction to arrow please""",3
+"""change scenery please""",4
+"""start playing the game.""",2
+"""align the boat immediately""",3
+"""go back to main menu now""",1
+"""switch to a different map now""",4
+"""activate the pause menu please""",0
+"""quit game and return immediately""",1
+"""let's play.""",2
+"""load another environment please""",4
+"""leave to main menu now""",1
+"""align the boat immediately""",3
+"""line the boat up with the arrow.""",3
+"""go back to main menu!""",1
+"""start the game now.""",2
+"""go back to main menu immediately""",1
+"""close the game and return to menu immediately""",1
+"""close the game and return to menu please""",1
+"""change scenery""",4
+"""begin the mission!""",2
+"""resume game please""",2
+"""change scenery!""",4
+"""quit game and return please""",1
+"""change scenery!""",4
+"""close the game and return to menu immediately""",1
+"""pause the game now immediately""",0
+"""quit game and return now""",1
+"""exit to the main screen!""",1
+"""open the pause menu""",0
+"""change scenery.""",4
+"""activate the pause menu!""",0
+"""leave to main menu immediately""",1
+"""activate the pause menu now""",0
+"""resume game.""",2
+"""activate the pause menu""",0
+"""let's play immediately""",2
+"""match boat direction to arrow immediately""",3
+"""line the boat up with the arrow""",3
+"""go back to main menu immediately""",1
+"""pause the game now!""",0
+"""show pause screen now""",0
+"""change the environment now""",4
+"""begin the mission""",2
+"""exit to the main screen.""",1
+"""begin the mission now""",2
+"""align the boat please""",3
+"""start playing the game.""",2
+"""start playing the game""",2
+"""go back to main menu.""",1
+"""change scenery now""",4
+"""begin the mission!""",2
+"""show pause screen now""",0
+"""align the boat please""",3
+"""start the game now immediately""",2
+"""quit game and return immediately""",1
+"""close the game and return to menu""",1
+"""close the game and return to menu please""",1
+"""match boat direction to arrow.""",3
+"""go back to main menu immediately""",1
+"""begin the mission!""",2
+"""let's play""",2
+"""switch to a different map please""",4
+"""start the game now immediately""",2
+"""activate the pause menu now""",0
+"""open the pause menu.""",0
+"""line the boat up with the arrow immediately""",3
+"""change the environment please""",4
+"""show pause screen!""",0
+"""change scenery immediately""",4
+"""show pause screen immediately""",0
+"""change to another place now""",4
+"""begin the mission.""",2
+"""begin the mission!""",2
+"""activate the pause menu now""",0
+"""align the boat now""",3
+"""pause the game now immediately""",0
+"""position the boat with the pointer.""",3
+"""show pause screen""",0
+"""let's play""",2
+"""start the game now now""",2
+"""line the boat up with the arrow!""",3
+"""leave to main menu immediately""",1
+"""load another environment!""",4
+"""line the boat up with the arrow please""",3
+"""change the environment""",4
+"""position the boat with the pointer.""",3
+"""begin the mission please""",2
+"""load another environment!""",4
+"""adjust kayak to arrow!""",3
+"""open the pause menu now""",0
+"""activate the pause menu now""",0
+"""change to another place""",4
+"""start playing the game""",2
+"""load another environment!""",4
+"""align the boat immediately""",3
+"""change to another place please""",4
+"""bring up the pause menu please""",0
+"""change the environment.""",4
+"""quit game and return.""",1
+"""bring up the pause menu now""",0
+"""exit to the main screen""",1
+"""match boat direction to arrow now""",3
+"""align the boat.""",3
+"""align the boat please""",3
+"""go back to main menu""",1
+"""start playing the game""",2
+"""change the environment.""",4
+"""start the game now""",2
+"""resume game!""",2
+"""activate the pause menu.""",0
+"""go back to main menu""",1
+"""show pause screen""",0
+"""pause the game now.""",0
+"""quit game and return""",1
+"""let's play please""",2
+"""start playing the game now""",2
+"""change to another place.""",4
+"""switch to a different map.""",4
+"""align the boat now""",3
+"""begin the mission immediately""",2
+"""open the pause menu now""",0
+"""pause the game now now""",0
+"""show pause screen immediately""",0
+"""position the boat with the pointer!""",3
+"""start playing the game""",2
+"""position the boat with the pointer immediately""",3
+"""align the boat please""",3
+"""show pause screen!""",0
+"""switch to a different map immediately""",4
+"""quit game and return""",1
+"""resume game now""",2
+"""line the boat up with the arrow!""",3
+"""change to another place immediately""",4
+"""start the game now!""",2
+"""position the boat with the pointer""",3
+"""show pause screen.""",0
+"""close the game and return to menu""",1
+"""leave to main menu.""",1
+"""match boat direction to arrow immediately""",3
+"""go back to main menu immediately""",1
+"""leave to main menu immediately""",1
+"""adjust kayak to arrow now""",3
+"""line the boat up with the arrow!""",3
+"""change the environment!""",4
+"""bring up the pause menu.""",0
+"""quit game and return immediately""",1
+"""let's play immediately""",2
+"""line the boat up with the arrow now""",3
+"""start playing the game""",2
+"""open the pause menu please""",0
+"""show pause screen now""",0
+"""resume game!""",2
+"""start playing the game now""",2
+"""start the game now now""",2
+"""quit game and return please""",1
+"""activate the pause menu""",0
+"""start playing the game""",2
+"""match boat direction to arrow now""",3
+"""activate the pause menu.""",0
+"""start playing the game now""",2
+"""position the boat with the pointer please""",3
+"""quit game and return!""",1
+"""change to another place!""",4
+"""align the boat please""",3
+"""align the boat.""",3
+"""pause the game now!""",0
+"""exit to the main screen please""",1
+"""align the boat""",3
+"""resume game!""",2
+"""begin the mission!""",2
+"""switch to a different map.""",4
+"""match boat direction to arrow""",3
+"""close the game and return to menu please""",1
+"""begin the mission immediately""",2
+"""change the environment""",4
+"""start playing the game immediately""",2
+"""bring up the pause menu please""",0
+"""adjust kayak to arrow""",3
+"""resume game!""",2
+"""resume game!""",2
+"""go back to main menu immediately""",1
+"""activate the pause menu""",0
+"""resume game please""",2
+"""activate the pause menu""",0
+"""change to another place immediately""",4
+"""pause the game now immediately""",0
+"""open the pause menu please""",0
+"""begin the mission please""",2
+"""adjust kayak to arrow now""",3
+"""change to another place please""",4
+"""line the boat up with the arrow please""",3
+"""let's play!""",2
+"""bring up the pause menu now""",0
+"""bring up the pause menu now""",0
+"""show pause screen please""",0
+"""line the boat up with the arrow immediately""",3
+"""show pause screen.""",0
+"""open the pause menu""",0
+"""align the boat""",3
+"""quit game and return.""",1
+"""match boat direction to arrow.""",3
+"""position the boat with the pointer!""",3
+"""match boat direction to arrow please""",3
+"""position the boat with the pointer""",3
+"""change the environment!""",4
+"""resume game now""",2
+"""go back to main menu immediately""",1
+"""position the boat with the pointer please""",3
+"""go back to main menu immediately""",1
+"""align the boat!""",3
+"""show pause screen""",0
+"""show pause screen.""",0
+"""switch to a different map now""",4
+"""show pause screen please""",0
+"""start playing the game""",2
+"""leave to main menu""",1
+"""resume game!""",2
+"""position the boat with the pointer!""",3
+"""resume game!""",2
+"""show pause screen""",0
+"""line the boat up with the arrow please""",3
+"""position the boat with the pointer please""",3
+"""resume game now""",2
+"""start playing the game""",2
+"""leave to main menu!""",1
+"""bring up the pause menu""",0
+"""begin the mission""",2
+"""begin the mission immediately""",2
+"""bring up the pause menu now""",0
+"""activate the pause menu please""",0
+"""resume game immediately""",2
+"""load another environment now""",4
+"""resume game.""",2
+"""exit to the main screen please""",1
+"""begin the mission now""",2
+"""bring up the pause menu.""",0
+"""change to another place!""",4
+"""show pause screen now""",0
+"""match boat direction to arrow!""",3
+"""show pause screen!""",0
+"""exit to the main screen.""",1
+"""exit to the main screen please""",1
+"""pause the game now.""",0
+"""align the boat now""",3
+"""start playing the game""",2
+"""resume game please""",2
+"""open the pause menu!""",0
+"""exit to the main screen""",1
+"""show pause screen""",0
+"""activate the pause menu!""",0
+"""bring up the pause menu.""",0
+"""start playing the game now""",2
+"""let's play immediately""",2
+"""resume game now""",2
+"""change the environment please""",4
+"""start playing the game please""",2
+"""line the boat up with the arrow""",3
+"""go back to main menu now""",1
+"""change scenery.""",4
+"""close the game and return to menu!""",1
+"""position the boat with the pointer please""",3
+"""adjust kayak to arrow immediately""",3
+"""activate the pause menu immediately""",0
+"""let's play.""",2
+"""activate the pause menu!""",0
+"""position the boat with the pointer""",3
+"""change the environment""",4
+"""show pause screen.""",0
+"""close the game and return to menu!""",1
+"""start playing the game.""",2
+"""leave to main menu""",1
+"""resume game.""",2
+"""align the boat.""",3
+"""load another environment immediately""",4
+"""show pause screen please""",0
+"""pause the game now now""",0
+"""resume game!""",2
+"""change to another place""",4
+"""let's play""",2
+"""go back to main menu now""",1
+"""let's play immediately""",2
+"""switch to a different map immediately""",4
+"""activate the pause menu!""",0
+"""activate the pause menu immediately""",0
+"""bring up the pause menu""",0
+"""resume game immediately""",2
+"""start playing the game.""",2
+"""bring up the pause menu!""",0
+"""adjust kayak to arrow.""",3
+"""quit game and return now""",1
+"""align the boat immediately""",3
+"""open the pause menu now""",0
+"""begin the mission!""",2
+"""let's play.""",2
+"""begin the mission""",2
+"""change scenery""",4
+"""align the boat!""",3
+"""start the game now.""",2
+"""open the pause menu""",0
+"""close the game and return to menu immediately""",1
+"""leave to main menu please""",1
+"""load another environment""",4
+"""leave to main menu please""",1
+"""close the game and return to menu!""",1
+"""start playing the game.""",2
+"""close the game and return to menu now""",1
+"""load another environment now""",4
+"""pause the game now""",0
+"""align the boat immediately""",3
+"""go back to main menu now""",1
+"""switch to a different map!""",4
+"""change the environment now""",4
+"""line the boat up with the arrow!""",3
+"""quit game and return please""",1
+"""go back to main menu now""",1
+"""start playing the game please""",2
+"""show pause screen now""",0
+"""close the game and return to menu now""",1
+"""close the game and return to menu!""",1
+"""adjust kayak to arrow immediately""",3
+"""load another environment.""",4
+"""let's play please""",2
+"""leave to main menu please""",1
+"""line the boat up with the arrow now""",3
+"""let's play!""",2
+"""pause the game now""",0
+"""start playing the game please""",2
+"""pause the game now""",0
+"""position the boat with the pointer!""",3
+"""show pause screen now""",0
+"""adjust kayak to arrow""",3
+"""start playing the game immediately""",2
+"""change scenery!""",4
+"""go back to main menu please""",1
+"""begin the mission""",2
+"""change the environment""",4
+"""open the pause menu.""",0
+"""close the game and return to menu immediately""",1
+"""open the pause menu.""",0
+"""let's play!""",2
+"""go back to main menu please""",1
+"""go back to main menu""",1
+"""begin the mission now""",2
+"""position the boat with the pointer immediately""",3
+"""start playing the game now""",2
+"""begin the mission.""",2
+"""resume game immediately""",2
+"""line the boat up with the arrow now""",3
+"""load another environment please""",4
+"""exit to the main screen please""",1
+"""bring up the pause menu.""",0
+"""quit game and return.""",1
+"""load another environment!""",4
+"""line the boat up with the arrow.""",3
+"""let's play please""",2
+"""change to another place now""",4
+"""change the environment immediately""",4
+"""show pause screen.""",0
+"""begin the mission!""",2
+"""position the boat with the pointer!""",3
+"""quit game and return please""",1
+"""go back to main menu immediately""",1
+"""go back to main menu immediately""",1
+"""begin the mission.""",2
+"""resume game!""",2
+"""start the game now!""",2
+"""pause the game now!""",0
+"""line the boat up with the arrow please""",3
+"""leave to main menu!""",1
+"""line the boat up with the arrow!""",3
+"""leave to main menu.""",1
+"""change the environment!""",4
+"""begin the mission""",2
+"""quit game and return""",1
+"""leave to main menu!""",1
+"""exit to the main screen!""",1
+"""change scenery now""",4
+"""exit to the main screen now""",1
+"""close the game and return to menu immediately""",1
+"""quit game and return immediately""",1
+"""position the boat with the pointer.""",3
+"""position the boat with the pointer please""",3
+"""bring up the pause menu immediately""",0
+"""change scenery!""",4
+"""match boat direction to arrow""",3
+"""change the environment immediately""",4
+"""let's play now""",2
+"""quit game and return now""",1
+"""change scenery!""",4
+"""close the game and return to menu.""",1
+"""bring up the pause menu now""",0
+"""show pause screen""",0
+"""switch to a different map immediately""",4
+"""change to another place""",4
+"""position the boat with the pointer now""",3
+"""close the game and return to menu please""",1
+"""match boat direction to arrow!""",3
+"""let's play immediately""",2
+"""bring up the pause menu""",0
+"""resume game.""",2
+"""start playing the game!""",2
+"""begin the mission!""",2
+"""change to another place""",4
+"""pause the game now please""",0
+"""bring up the pause menu.""",0
+"""begin the mission now""",2
+"""resume game immediately""",2
+"""resume game""",2
+"""let's play please""",2
+"""open the pause menu please""",0
+"""start playing the game now""",2
+"""line the boat up with the arrow""",3
+"""leave to main menu.""",1
+"""change to another place""",4
+"""align the boat!""",3
+"""let's play.""",2
+"""let's play now""",2
+"""position the boat with the pointer immediately""",3
+"""show pause screen.""",0
+"""go back to main menu!""",1
+"""exit to the main screen please""",1
+"""position the boat with the pointer!""",3
+"""load another environment now""",4
+"""let's play now""",2
+"""let's play immediately""",2
+"""begin the mission!""",2
+"""go back to main menu""",1
+"""switch to a different map""",4
+"""line the boat up with the arrow""",3
+"""activate the pause menu""",0
+"""start playing the game.""",2
+"""switch to a different map immediately""",4
+"""show pause screen please""",0
+"""adjust kayak to arrow!""",3
+"""change scenery!""",4
+"""go back to main menu now""",1
+"""switch to a different map now""",4
+"""activate the pause menu!""",0
+"""exit to the main screen""",1
+"""let's play now""",2
+"""quit game and return please""",1
+"""change scenery immediately""",4
+"""load another environment please""",4
+"""change scenery please""",4
+"""start playing the game now""",2
+"""leave to main menu now""",1
+"""start the game now.""",2
+"""activate the pause menu""",0
+"""go back to main menu""",1
+"""change the environment now""",4
+"""match boat direction to arrow!""",3
+"""adjust kayak to arrow now""",3
+"""adjust kayak to arrow immediately""",3
+"""change to another place please""",4
+"""open the pause menu please""",0
+"""change the environment!""",4
+"""open the pause menu""",0
+"""switch to a different map!""",4
+"""adjust kayak to arrow.""",3
+"""change the environment.""",4
+"""change to another place.""",4
+"""change scenery now""",4
+"""let's play""",2
+"""pause the game now now""",0
+"""go back to main menu.""",1
+"""resume game""",2
+"""match boat direction to arrow immediately""",3
+"""resume game please""",2
+"""resume game immediately""",2
+"""adjust kayak to arrow.""",3
+"""quit game and return please""",1
+"""change to another place!""",4
+"""quit game and return immediately""",1
+"""open the pause menu""",0
+"""change to another place now""",4
+"""load another environment!""",4
+"""show pause screen.""",0
+"""bring up the pause menu now""",0
+"""bring up the pause menu now""",0
+"""change to another place.""",4
+"""start the game now.""",2
+"""change scenery!""",4
+"""activate the pause menu!""",0
+"""adjust kayak to arrow""",3
+"""begin the mission please""",2
+"""begin the mission immediately""",2
+"""bring up the pause menu.""",0
+"""show pause screen!""",0
+"""go back to main menu""",1
+"""start playing the game!""",2
+"""match boat direction to arrow please""",3
+"""begin the mission please""",2
+"""begin the mission immediately""",2
+"""change the environment immediately""",4
+"""exit to the main screen now""",1
+"""change scenery""",4
+"""go back to main menu please""",1
+"""close the game and return to menu!""",1
+"""change to another place.""",4
+"""change to another place immediately""",4
+"""start the game now""",2
+"""go back to main menu!""",1
+"""exit to the main screen immediately""",1
+"""adjust kayak to arrow immediately""",3
+"""bring up the pause menu""",0
+"""open the pause menu immediately""",0
+"""open the pause menu.""",0
+"""match boat direction to arrow please""",3
+"""pause the game now immediately""",0
+"""start playing the game""",2
+"""position the boat with the pointer.""",3
+"""start the game now.""",2
+"""resume game""",2
+"""line the boat up with the arrow""",3
+"""pause the game now immediately""",0
+"""position the boat with the pointer""",3
+"""line the boat up with the arrow.""",3
+"""line the boat up with the arrow.""",3
+"""close the game and return to menu now""",1
+"""match boat direction to arrow immediately""",3
+"""pause the game now.""",0
+"""align the boat immediately""",3
+"""adjust kayak to arrow!""",3
+"""quit game and return.""",1
+"""change the environment please""",4
+"""change the environment!""",4
+"""change scenery immediately""",4
+"""leave to main menu!""",1
+"""leave to main menu.""",1
+"""exit to the main screen immediately""",1
+"""match boat direction to arrow please""",3
+"""align the boat now""",3
+"""start the game now now""",2
+"""change scenery!""",4
+"""pause the game now now""",0
+"""bring up the pause menu!""",0
+"""close the game and return to menu""",1
+"""match boat direction to arrow please""",3
+"""go back to main menu!""",1
+"""pause the game now please""",0
+"""leave to main menu immediately""",1
+"""leave to main menu.""",1
+"""pause the game now immediately""",0
+"""match boat direction to arrow please""",3
+"""change the environment.""",4
+"""position the boat with the pointer!""",3
+"""load another environment.""",4
+"""line the boat up with the arrow!""",3
+"""match boat direction to arrow!""",3
+"""close the game and return to menu.""",1
+"""match boat direction to arrow immediately""",3
+"""open the pause menu""",0
+"""start the game now now""",2
+"""resume game.""",2
+"""resume game!""",2
+"""change to another place please""",4
+"""open the pause menu immediately""",0
+"""bring up the pause menu immediately""",0
+"""activate the pause menu!""",0
+"""bring up the pause menu""",0
+"""align the boat""",3
+"""quit game and return now""",1
+"""exit to the main screen immediately""",1
+"""pause the game now""",0
+"""load another environment""",4
+"""bring up the pause menu please""",0
+"""adjust kayak to arrow immediately""",3
+"""start playing the game please""",2
+"""let's play!""",2
+"""bring up the pause menu.""",0
+"""start the game now!""",2
+"""exit to the main screen now""",1
+"""match boat direction to arrow!""",3
+"""start playing the game""",2
+"""switch to a different map please""",4
+"""match boat direction to arrow!""",3
+"""activate the pause menu now""",0
+"""line the boat up with the arrow please""",3
+"""change scenery!""",4
+"""begin the mission!""",2
+"""let's play now""",2
+"""change scenery!""",4
+"""show pause screen""",0
+"""quit game and return!""",1
+"""load another environment""",4
+"""pause the game now immediately""",0
+"""leave to main menu immediately""",1
+"""start the game now.""",2
+"""adjust kayak to arrow please""",3
+"""change to another place""",4
+"""change the environment!""",4
+"""activate the pause menu""",0
+"""adjust kayak to arrow please""",3
+"""start the game now now""",2
+"""begin the mission.""",2
+"""exit to the main screen.""",1
+"""exit to the main screen please""",1
+"""quit game and return""",1
+"""change to another place now""",4
+"""bring up the pause menu.""",0
+"""leave to main menu immediately""",1
+"""adjust kayak to arrow""",3
+"""go back to main menu""",1
+"""close the game and return to menu now""",1
+"""align the boat immediately""",3
+"""pause the game now.""",0
+"""start playing the game.""",2
+"""let's play please""",2
+"""switch to a different map now""",4
+"""align the boat!""",3
+"""begin the mission!""",2
+"""position the boat with the pointer please""",3
+"""open the pause menu""",0
+"""go back to main menu!""",1
+"""change scenery please""",4
+"""switch to a different map""",4
+"""go back to main menu!""",1
+"""start playing the game immediately""",2
+"""quit game and return""",1
+"""start playing the game now""",2
+"""change to another place.""",4
+"""activate the pause menu now""",0
+"""pause the game now immediately""",0
+"""show pause screen immediately""",0
+"""pause the game now.""",0
+"""start playing the game now""",2
+"""switch to a different map please""",4
+"""go back to main menu immediately""",1
+"""align the boat immediately""",3
+"""resume game immediately""",2
+"""change scenery immediately""",4
+"""let's play immediately""",2
+"""leave to main menu.""",1
+"""start the game now please""",2
+"""bring up the pause menu now""",0
+"""exit to the main screen!""",1
+"""close the game and return to menu.""",1
+"""load another environment now""",4
+"""let's play!""",2
+"""start the game now immediately""",2
+"""show pause screen immediately""",0
+"""go back to main menu now""",1
+"""show pause screen.""",0
+"""open the pause menu now""",0
+"""align the boat.""",3
+"""bring up the pause menu""",0
+"""line the boat up with the arrow now""",3
+"""position the boat with the pointer""",3
+"""open the pause menu""",0
+"""pause the game now please""",0
+"""begin the mission.""",2
+"""align the boat now""",3
+"""align the boat""",3
+"""pause the game now""",0
+"""switch to a different map.""",4
+"""quit game and return immediately""",1
+"""exit to the main screen now""",1
+"""close the game and return to menu""",1
+"""load another environment""",4
+"""activate the pause menu now""",0
+"""activate the pause menu please""",0
+"""match boat direction to arrow now""",3
+"""change to another place immediately""",4
+"""exit to the main screen!""",1
+"""match boat direction to arrow immediately""",3
+"""position the boat with the pointer please""",3
+"""start the game now""",2
+"""change the environment immediately""",4
+"""show pause screen now""",0
+"""start the game now now""",2
+"""bring up the pause menu!""",0
+"""leave to main menu.""",1
+"""close the game and return to menu now""",1
+"""leave to main menu!""",1
+"""change to another place immediately""",4
+"""quit game and return now""",1
+"""begin the mission.""",2
+"""show pause screen.""",0
+"""adjust kayak to arrow""",3
+"""change the environment.""",4
+"""resume game please""",2
+"""show pause screen.""",0
+"""begin the mission!""",2
+"""change the environment.""",4
+"""change scenery please""",4
+"""line the boat up with the arrow""",3
+"""load another environment now""",4
+"""pause the game now immediately""",0
+"""align the boat""",3
+"""switch to a different map please""",4
+"""activate the pause menu immediately""",0
+"""begin the mission immediately""",2
+"""quit game and return.""",1
+"""switch to a different map""",4
+"""open the pause menu now""",0
+"""activate the pause menu please""",0
+"""align the boat""",3
+"""bring up the pause menu""",0
+"""leave to main menu""",1
+"""exit to the main screen.""",1
+"""show pause screen now""",0
+"""leave to main menu immediately""",1
+"""pause the game now!""",0
+"""open the pause menu please""",0
+"""start the game now now""",2
+"""start the game now immediately""",2
+"""line the boat up with the arrow""",3
+"""load another environment!""",4
+"""open the pause menu!""",0
+"""activate the pause menu!""",0
+"""activate the pause menu.""",0
+"""start the game now!""",2
+"""position the boat with the pointer!""",3
+"""activate the pause menu""",0
+"""bring up the pause menu!""",0
+"""start playing the game please""",2
+"""start the game now!""",2
+"""begin the mission""",2
+"""start the game now now""",2
+"""open the pause menu""",0
+"""go back to main menu""",1
+"""begin the mission.""",2
+"""activate the pause menu now""",0
+"""let's play now""",2
+"""switch to a different map immediately""",4
+"""adjust kayak to arrow immediately""",3
+"""activate the pause menu please""",0
+"""load another environment please""",4
+"""change the environment""",4
+"""activate the pause menu.""",0
+"""close the game and return to menu immediately""",1
+"""align the boat!""",3
+"""match boat direction to arrow now""",3
+"""change the environment.""",4
+"""start playing the game now""",2
+"""change scenery.""",4
+"""align the boat please""",3
+"""show pause screen please""",0
+"""align the boat immediately""",3
+"""position the boat with the pointer immediately""",3
+"""resume game""",2
+"""show pause screen.""",0
+"""change the environment""",4
+"""begin the mission now""",2
+"""start the game now""",2
+"""load another environment immediately""",4
+"""align the boat please""",3
+"""change to another place now""",4
+"""exit to the main screen please""",1
+"""exit to the main screen immediately""",1
+"""open the pause menu""",0
+"""align the boat""",3
+"""change to another place please""",4
+"""line the boat up with the arrow.""",3
+"""start playing the game""",2
+"""line the boat up with the arrow!""",3
+"""adjust kayak to arrow please""",3
+"""show pause screen immediately""",0
+"""show pause screen please""",0
+"""switch to a different map now""",4
+"""exit to the main screen.""",1
+"""let's play immediately""",2
+"""exit to the main screen now""",1
+"""change the environment now""",4
+"""go back to main menu now""",1
+"""let's play please""",2
+"""let's play immediately""",2
+"""go back to main menu.""",1
+"""line the boat up with the arrow please""",3
+"""leave to main menu immediately""",1
+"""position the boat with the pointer now""",3
+"""show pause screen now""",0
+"""show pause screen""",0
+"""start playing the game immediately""",2
+"""match boat direction to arrow.""",3
+"""resume game immediately""",2
+"""activate the pause menu""",0
+"""leave to main menu.""",1
+"""show pause screen!""",0
+"""align the boat!""",3
+"""leave to main menu""",1
+"""go back to main menu!""",1
+"""activate the pause menu immediately""",0
+"""activate the pause menu please""",0
+"""pause the game now now""",0
+"""change scenery!""",4
+"""start playing the game""",2
+"""show pause screen now""",0
+"""line the boat up with the arrow""",3
+"""activate the pause menu please""",0
+"""quit game and return immediately""",1
+"""let's play now""",2
+"""let's play!""",2
+"""change the environment!""",4
+"""start playing the game now""",2
+"""begin the mission.""",2
+"""close the game and return to menu!""",1
+"""resume game""",2
+"""close the game and return to menu""",1
+"""close the game and return to menu""",1
+"""start the game now now""",2
+"""line the boat up with the arrow!""",3
+"""bring up the pause menu now""",0
+"""leave to main menu""",1
+"""quit game and return now""",1
+"""change the environment.""",4
+"""position the boat with the pointer immediately""",3
+"""position the boat with the pointer please""",3
+"""bring up the pause menu!""",0
+"""switch to a different map""",4
+"""begin the mission!""",2
+"""exit to the main screen.""",1
+"""load another environment""",4
+"""line the boat up with the arrow.""",3
+"""change the environment please""",4
+"""align the boat now""",3
+"""quit game and return""",1
+"""start playing the game now""",2
+"""quit game and return!""",1
+"""change to another place immediately""",4
+"""activate the pause menu please""",0
+"""match boat direction to arrow!""",3
+"""change scenery please""",4
+"""activate the pause menu please""",0
+"""pause the game now now""",0
+"""switch to a different map.""",4
+"""load another environment""",4
+"""line the boat up with the arrow.""",3
+"""position the boat with the pointer.""",3
+"""leave to main menu""",1
+"""align the boat.""",3
+"""let's play immediately""",2
+"""leave to main menu please""",1
+"""start playing the game.""",2
+"""let's play!""",2
+"""match boat direction to arrow please""",3
+"""leave to main menu.""",1
+"""change the environment now""",4
+"""line the boat up with the arrow please""",3
+"""start playing the game!""",2
+"""quit game and return""",1
+"""start the game now now""",2
+"""match boat direction to arrow please""",3
+"""quit game and return.""",1
+"""pause the game now immediately""",0
+"""leave to main menu please""",1
+"""bring up the pause menu please""",0
+"""load another environment now""",4
+"""line the boat up with the arrow now""",3
+"""align the boat!""",3
+"""load another environment now""",4
+"""resume game.""",2
+"""adjust kayak to arrow.""",3
+"""load another environment!""",4
+"""go back to main menu.""",1
+"""exit to the main screen""",1
+"""activate the pause menu.""",0
+"""quit game and return.""",1
+"""switch to a different map.""",4
+"""close the game and return to menu!""",1
+"""begin the mission!""",2
+"""change scenery immediately""",4
+"""line the boat up with the arrow immediately""",3
+"""change the environment immediately""",4
+"""change the environment""",4
+"""line the boat up with the arrow.""",3
+"""change scenery.""",4
+"""change to another place""",4
+"""load another environment please""",4
+"""let's play!""",2
+"""exit to the main screen immediately""",1
+"""close the game and return to menu.""",1
+"""load another environment.""",4
+"""position the boat with the pointer""",3
+"""change scenery immediately""",4
+"""bring up the pause menu""",0
+"""bring up the pause menu!""",0
+"""pause the game now.""",0
+"""change scenery!""",4
+"""resume game""",2
+"""align the boat""",3
+"""line the boat up with the arrow immediately""",3
+"""match boat direction to arrow!""",3
+"""position the boat with the pointer!""",3
+"""match boat direction to arrow""",3
+"""begin the mission!""",2
+"""bring up the pause menu immediately""",0
+"""change scenery immediately""",4
+"""go back to main menu!""",1
+"""exit to the main screen immediately""",1
+"""adjust kayak to arrow please""",3
+"""resume game.""",2
+"""show pause screen""",0
+"""bring up the pause menu""",0
+"""start the game now""",2
+"""open the pause menu immediately""",0
+"""change the environment!""",4
+"""resume game now""",2
+"""show pause screen please""",0
+"""position the boat with the pointer!""",3
+"""go back to main menu!""",1
+"""leave to main menu.""",1
+"""quit game and return please""",1
+"""start playing the game""",2
+"""show pause screen immediately""",0
+"""let's play immediately""",2
+"""switch to a different map""",4
+"""switch to a different map.""",4
+"""open the pause menu immediately""",0
+"""change to another place please""",4
+"""let's play""",2
+"""let's play please""",2
+"""exit to the main screen!""",1
+"""match boat direction to arrow""",3
+"""start playing the game!""",2
+"""close the game and return to menu.""",1
+"""activate the pause menu.""",0
+"""position the boat with the pointer please""",3
+"""resume game.""",2
+"""exit to the main screen!""",1
+"""position the boat with the pointer immediately""",3
+"""pause the game now!""",0
+"""switch to a different map.""",4
+"""change to another place""",4
+"""show pause screen""",0
+"""change to another place!""",4
+"""switch to a different map now""",4
+"""change the environment""",4
+"""go back to main menu now""",1
+"""leave to main menu please""",1
+"""resume game immediately""",2
+"""change scenery please""",4
+"""load another environment!""",4
+"""change to another place please""",4
+"""pause the game now immediately""",0
+"""change the environment immediately""",4
+"""adjust kayak to arrow please""",3
+"""let's play please""",2
+"""activate the pause menu immediately""",0
+"""position the boat with the pointer.""",3
+"""go back to main menu!""",1
+"""open the pause menu!""",0
+"""change to another place please""",4
+"""adjust kayak to arrow!""",3
+"""position the boat with the pointer!""",3
+"""begin the mission please""",2
+"""exit to the main screen immediately""",1
+"""show pause screen""",0
+"""start the game now please""",2
+"""open the pause menu!""",0
+"""let's play please""",2
+"""match boat direction to arrow""",3
+"""switch to a different map please""",4
+"""adjust kayak to arrow please""",3
+"""open the pause menu please""",0
+"""close the game and return to menu please""",1
+"""leave to main menu.""",1
+"""let's play!""",2
+"""change the environment now""",4
+"""show pause screen""",0
+"""leave to main menu""",1
+"""match boat direction to arrow now""",3
+"""switch to a different map please""",4
+"""begin the mission!""",2
+"""start the game now now""",2
+"""change to another place.""",4
+"""close the game and return to menu.""",1
+"""close the game and return to menu now""",1
+"""go back to main menu.""",1
+"""close the game and return to menu immediately""",1
+"""line the boat up with the arrow please""",3
+"""exit to the main screen!""",1
+"""activate the pause menu immediately""",0
+"""begin the mission""",2
+"""begin the mission!""",2
+"""align the boat!""",3
+"""line the boat up with the arrow.""",3
+"""start playing the game""",2
+"""adjust kayak to arrow immediately""",3
+"""switch to a different map.""",4
+"""align the boat""",3
+"""change to another place.""",4
+"""close the game and return to menu now""",1
+"""change to another place""",4
+"""change the environment!""",4
+"""adjust kayak to arrow immediately""",3
+"""position the boat with the pointer.""",3
+"""let's play!""",2
+"""position the boat with the pointer now""",3
+"""open the pause menu immediately""",0
+"""quit game and return!""",1
+"""go back to main menu.""",1
+"""bring up the pause menu""",0
+"""change to another place!""",4
+"""exit to the main screen please""",1
+"""resume game please""",2
+"""bring up the pause menu please""",0
+"""line the boat up with the arrow""",3
+"""open the pause menu now""",0
+"""start the game now!""",2
+"""quit game and return""",1
+"""quit game and return now""",1
+"""line the boat up with the arrow immediately""",3
+"""pause the game now""",0
+"""bring up the pause menu.""",0
+"""align the boat immediately""",3
+"""begin the mission immediately""",2
+"""exit to the main screen!""",1
+"""pause the game now please""",0
+"""start the game now now""",2
+"""quit game and return""",1
+"""start the game now now""",2
+"""begin the mission!""",2
+"""activate the pause menu""",0
+"""close the game and return to menu please""",1
+"""change scenery!""",4
+"""pause the game now now""",0
+"""position the boat with the pointer!""",3
+"""match boat direction to arrow!""",3
+"""change to another place""",4
+"""match boat direction to arrow please""",3
+"""change the environment immediately""",4
+"""start playing the game!""",2
+"""line the boat up with the arrow please""",3
+"""activate the pause menu immediately""",0
+"""match boat direction to arrow immediately""",3
+"""change scenery now""",4
+"""bring up the pause menu.""",0
+"""show pause screen.""",0
+"""switch to a different map!""",4
+"""bring up the pause menu please""",0
+"""adjust kayak to arrow now""",3
+"""close the game and return to menu!""",1
+"""open the pause menu!""",0
+"""start playing the game""",2
+"""change to another place!""",4
+"""activate the pause menu.""",0
+"""switch to a different map please""",4
+"""line the boat up with the arrow""",3
+"""close the game and return to menu immediately""",1
+"""go back to main menu please""",1
+"""pause the game now""",0
+"""pause the game now""",0
+"""load another environment""",4
+"""position the boat with the pointer.""",3
+"""position the boat with the pointer!""",3
+"""open the pause menu.""",0
+"""show pause screen""",0
+"""resume game immediately""",2
+"""resume game immediately""",2
+"""switch to a different map.""",4
+"""adjust kayak to arrow now""",3
+"""begin the mission immediately""",2
+"""change to another place""",4
+"""resume game please""",2
+"""match boat direction to arrow immediately""",3
+"""start playing the game now""",2
+"""exit to the main screen immediately""",1
+"""start the game now.""",2
+"""position the boat with the pointer please""",3
+"""open the pause menu.""",0
+"""pause the game now.""",0
+"""line the boat up with the arrow now""",3
+"""show pause screen now""",0
+"""quit game and return""",1
+"""match boat direction to arrow immediately""",3
+"""start the game now now""",2
+"""open the pause menu immediately""",0
+"""resume game.""",2
+"""change to another place.""",4
+"""position the boat with the pointer.""",3
+"""change to another place now""",4
+"""let's play""",2
+"""leave to main menu immediately""",1
+"""resume game immediately""",2
+"""activate the pause menu please""",0
+"""position the boat with the pointer immediately""",3
+"""switch to a different map now""",4
+"""change scenery immediately""",4
+"""change the environment please""",4
+"""let's play""",2
+"""change the environment please""",4
+"""load another environment please""",4
+"""match boat direction to arrow please""",3
+"""let's play.""",2
+"""pause the game now now""",0
+"""bring up the pause menu now""",0
+"""match boat direction to arrow now""",3
+"""adjust kayak to arrow immediately""",3
+"""activate the pause menu please""",0
+"""exit to the main screen please""",1
+"""change the environment immediately""",4
+"""show pause screen please""",0
+"""change scenery""",4
+"""let's play immediately""",2
+"""load another environment now""",4
+"""start the game now now""",2
+"""pause the game now.""",0
+"""adjust kayak to arrow!""",3
+"""start playing the game immediately""",2
+"""position the boat with the pointer.""",3
+"""leave to main menu!""",1
+"""change the environment immediately""",4
+"""let's play.""",2
+"""adjust kayak to arrow now""",3
+"""align the boat now""",3
+"""start playing the game immediately""",2
+"""align the boat immediately""",3
+"""start the game now""",2
+"""position the boat with the pointer!""",3
+"""position the boat with the pointer!""",3
+"""let's play.""",2
+"""leave to main menu now""",1
+"""close the game and return to menu.""",1
+"""close the game and return to menu""",1
+"""close the game and return to menu immediately""",1
+"""match boat direction to arrow.""",3
+"""switch to a different map immediately""",4
+"""start playing the game now""",2
+"""quit game and return""",1
+"""exit to the main screen now""",1
+"""activate the pause menu!""",0
+"""adjust kayak to arrow!""",3
+"""open the pause menu immediately""",0
+"""activate the pause menu immediately""",0
+"""line the boat up with the arrow""",3
+"""change scenery please""",4
+"""switch to a different map immediately""",4
+"""exit to the main screen""",1
+"""open the pause menu please""",0
+"""begin the mission now""",2
+"""switch to a different map now""",4
+"""change scenery""",4
+"""activate the pause menu now""",0
+"""change scenery now""",4
+"""begin the mission please""",2
+"""position the boat with the pointer""",3
+"""close the game and return to menu immediately""",1
+"""go back to main menu""",1
+"""close the game and return to menu""",1
+"""change the environment!""",4
+"""switch to a different map.""",4
+"""change the environment please""",4
+"""change to another place""",4
+"""position the boat with the pointer""",3
+"""start playing the game""",2
+"""line the boat up with the arrow please""",3
+"""exit to the main screen now""",1
+"""load another environment!""",4
+"""adjust kayak to arrow please""",3
+"""line the boat up with the arrow.""",3
+"""close the game and return to menu immediately""",1
+"""line the boat up with the arrow now""",3
+"""start playing the game now""",2
+"""close the game and return to menu immediately""",1
+"""align the boat immediately""",3
+"""start playing the game immediately""",2
+"""start the game now!""",2
+"""open the pause menu immediately""",0
+"""change scenery please""",4
+"""pause the game now.""",0
+"""align the boat immediately""",3
+"""change scenery please""",4
+"""adjust kayak to arrow.""",3
+"""begin the mission""",2
+"""adjust kayak to arrow please""",3
+"""start playing the game.""",2
+"""line the boat up with the arrow.""",3
+"""change to another place immediately""",4
+"""show pause screen""",0
+"""line the boat up with the arrow!""",3
+"""exit to the main screen.""",1
+"""start playing the game please""",2
+"""show pause screen immediately""",0
+"""let's play now""",2
+"""quit game and return please""",1
+"""change to another place.""",4
+"""switch to a different map.""",4
+"""start playing the game please""",2
+"""go back to main menu immediately""",1
+"""show pause screen!""",0
+"""pause the game now immediately""",0
+"""line the boat up with the arrow""",3
+"""change scenery please""",4
+"""change the environment please""",4
+"""position the boat with the pointer please""",3
+"""activate the pause menu.""",0
+"""line the boat up with the arrow now""",3
+"""change to another place.""",4
+"""exit to the main screen.""",1
+"""resume game immediately""",2
+"""start the game now please""",2
+"""let's play""",2
+"""change the environment immediately""",4
+"""quit game and return now""",1
+"""pause the game now please""",0
+"""go back to main menu.""",1
+"""show pause screen""",0
+"""change to another place!""",4
+"""activate the pause menu immediately""",0
+"""leave to main menu please""",1
+"""switch to a different map please""",4
+"""open the pause menu""",0
+"""go back to main menu""",1
+"""show pause screen now""",0
+"""start playing the game now""",2
+"""activate the pause menu.""",0
+"""activate the pause menu please""",0
+"""go back to main menu now""",1
+"""position the boat with the pointer!""",3
+"""change the environment please""",4
+"""pause the game now.""",0
+"""load another environment!""",4
+"""quit game and return please""",1
+"""line the boat up with the arrow now""",3
+"""go back to main menu please""",1
+"""leave to main menu.""",1
+"""position the boat with the pointer!""",3
+"""position the boat with the pointer!""",3
+"""match boat direction to arrow!""",3
+"""start playing the game.""",2
+"""align the boat now""",3
+"""switch to a different map please""",4
+"""let's play please""",2
+"""load another environment!""",4
+"""activate the pause menu immediately""",0
+"""change to another place.""",4
+"""start playing the game""",2
+"""switch to a different map!""",4
+"""open the pause menu.""",0
+"""leave to main menu please""",1
+"""change to another place!""",4
+"""change scenery!""",4
+"""show pause screen""",0
+"""activate the pause menu please""",0
+"""start the game now.""",2
+"""change scenery.""",4
+"""activate the pause menu please""",0
+"""switch to a different map""",4
+"""change scenery immediately""",4
+"""adjust kayak to arrow please""",3
+"""start the game now now""",2
+"""show pause screen!""",0
+"""load another environment!""",4
+"""change scenery""",4
+"""pause the game now""",0
+"""load another environment.""",4
+"""activate the pause menu immediately""",0
+"""start playing the game now""",2
+"""match boat direction to arrow please""",3
+"""go back to main menu.""",1
+"""change the environment immediately""",4
+"""open the pause menu immediately""",0
+"""leave to main menu""",1
+"""close the game and return to menu please""",1
+"""line the boat up with the arrow now""",3
+"""activate the pause menu""",0
+"""change scenery""",4
+"""line the boat up with the arrow.""",3
+"""change the environment!""",4
+"""activate the pause menu!""",0
+"""start the game now now""",2
+"""adjust kayak to arrow""",3
+"""activate the pause menu.""",0
+"""start the game now immediately""",2
+"""start playing the game.""",2
+"""start the game now immediately""",2
+"""switch to a different map!""",4
+"""start playing the game.""",2
+"""bring up the pause menu now""",0
+"""bring up the pause menu please""",0
+"""change to another place.""",4
+"""show pause screen.""",0
+"""close the game and return to menu""",1
+"""open the pause menu please""",0
+"""switch to a different map immediately""",4
+"""line the boat up with the arrow immediately""",3
+"""pause the game now immediately""",0
+"""start playing the game immediately""",2
+"""resume game.""",2
+"""change scenery.""",4
+"""change the environment now""",4
+"""let's play please""",2
+"""change scenery please""",4
+"""pause the game now.""",0
+"""change scenery.""",4
+"""resume game.""",2
+"""let's play now""",2
+"""bring up the pause menu immediately""",0
+"""pause the game now!""",0
+"""change scenery""",4
+"""leave to main menu please""",1
+"""bring up the pause menu.""",0
+"""activate the pause menu""",0
+"""quit game and return!""",1
+"""load another environment""",4
+"""resume game please""",2
+"""line the boat up with the arrow.""",3
+"""quit game and return""",1
+"""switch to a different map now""",4
+"""activate the pause menu.""",0
+"""change scenery please""",4
+"""align the boat now""",3
+"""line the boat up with the arrow""",3
+"""change to another place.""",4
+"""change to another place please""",4
+"""adjust kayak to arrow.""",3
+"""start the game now""",2
+"""go back to main menu please""",1
+"""start playing the game immediately""",2
+"""activate the pause menu now""",0
+"""begin the mission!""",2
+"""let's play immediately""",2
+"""go back to main menu immediately""",1
+"""close the game and return to menu.""",1
+"""quit game and return""",1
+"""change the environment please""",4
+"""change scenery please""",4
+"""bring up the pause menu immediately""",0
+"""start playing the game!""",2
+"""switch to a different map.""",4
+"""exit to the main screen immediately""",1
+"""switch to a different map please""",4
+"""bring up the pause menu please""",0
+"""show pause screen now""",0
+"""start the game now!""",2
+"""let's play please""",2
+"""load another environment please""",4
+"""match boat direction to arrow please""",3
+"""align the boat immediately""",3
+"""start the game now please""",2
+"""start playing the game immediately""",2
+"""close the game and return to menu.""",1
+"""exit to the main screen now""",1
+"""activate the pause menu!""",0
+"""load another environment please""",4
+"""match boat direction to arrow now""",3
+"""open the pause menu immediately""",0
+"""quit game and return.""",1
+"""begin the mission""",2
+"""bring up the pause menu.""",0
+"""open the pause menu now""",0
+"""start playing the game now""",2
+"""resume game!""",2
+"""start playing the game now""",2
+"""position the boat with the pointer!""",3
+"""close the game and return to menu.""",1
+"""change scenery now""",4
+"""leave to main menu.""",1
+"""change the environment now""",4
+"""align the boat.""",3
+"""bring up the pause menu now""",0
+"""change the environment!""",4
+"""show pause screen please""",0
+"""pause the game now.""",0
+"""go back to main menu.""",1
+"""position the boat with the pointer now""",3
+"""change to another place immediately""",4
+"""bring up the pause menu immediately""",0
+"""open the pause menu immediately""",0
+"""show pause screen!""",0
+"""line the boat up with the arrow!""",3
+"""show pause screen please""",0
+"""start playing the game""",2
+"""line the boat up with the arrow immediately""",3
+"""quit game and return!""",1
+"""change scenery.""",4
+"""line the boat up with the arrow!""",3
+"""change the environment.""",4
+"""open the pause menu now""",0
+"""activate the pause menu!""",0
+"""quit game and return""",1
+"""adjust kayak to arrow now""",3
+"""change the environment""",4
+"""close the game and return to menu.""",1
+"""change to another place""",4
+"""adjust kayak to arrow.""",3
+"""switch to a different map now""",4
+"""change the environment now""",4
+"""begin the mission""",2
+"""position the boat with the pointer now""",3
+"""load another environment please""",4
+"""resume game""",2
+"""change the environment immediately""",4
+"""resume game immediately""",2
+"""line the boat up with the arrow!""",3
+"""load another environment immediately""",4
+"""change scenery!""",4
+"""activate the pause menu.""",0
+"""load another environment!""",4
+"""pause the game now immediately""",0
+"""change to another place now""",4
+"""match boat direction to arrow.""",3
+"""pause the game now now""",0
+"""change scenery please""",4
+"""align the boat!""",3
+"""start playing the game please""",2
+"""exit to the main screen please""",1
+"""exit to the main screen!""",1
+"""change scenery.""",4
+"""show pause screen.""",0
+"""load another environment now""",4
+"""exit to the main screen please""",1
+"""switch to a different map!""",4
+"""change the environment now""",4
+"""activate the pause menu immediately""",0
+"""exit to the main screen please""",1
+"""start playing the game!""",2
+"""close the game and return to menu please""",1
+"""close the game and return to menu please""",1
+"""switch to a different map now""",4
+"""go back to main menu!""",1
+"""match boat direction to arrow immediately""",3
+"""change scenery!""",4
+"""resume game""",2
+"""close the game and return to menu now""",1
+"""switch to a different map!""",4
+"""start the game now.""",2
+"""change the environment.""",4
+"""start playing the game please""",2
+"""change scenery please""",4
+"""change the environment please""",4
+"""let's play.""",2
+"""resume game.""",2
+"""adjust kayak to arrow now""",3
+"""show pause screen!""",0
+"""show pause screen now""",0
+"""open the pause menu.""",0
+"""begin the mission""",2
+"""go back to main menu immediately""",1
+"""pause the game now!""",0
+"""bring up the pause menu!""",0
+"""match boat direction to arrow""",3
+"""pause the game now now""",0
+"""change the environment.""",4
+"""activate the pause menu immediately""",0
+"""activate the pause menu.""",0
+"""bring up the pause menu now""",0
+"""show pause screen now""",0
+"""change to another place immediately""",4
+"""change to another place!""",4
+"""close the game and return to menu""",1
+"""adjust kayak to arrow!""",3
+"""position the boat with the pointer now""",3
+"""change to another place!""",4
+"""resume game.""",2
+"""activate the pause menu.""",0
+"""start playing the game now""",2
+"""resume game""",2
+"""leave to main menu!""",1
+"""open the pause menu.""",0
+"""exit to the main screen immediately""",1
+"""close the game and return to menu!""",1
+"""activate the pause menu.""",0
+"""change scenery please""",4
+"""start playing the game""",2
+"""line the boat up with the arrow.""",3
+"""switch to a different map now""",4
+"""exit to the main screen please""",1
+"""align the boat!""",3
+"""begin the mission immediately""",2
+"""change scenery""",4
+"""open the pause menu""",0
+"""load another environment now""",4
+"""match boat direction to arrow now""",3
+"""change scenery!""",4
+"""adjust kayak to arrow""",3
+"""match boat direction to arrow""",3
+"""switch to a different map.""",4
+"""line the boat up with the arrow.""",3
+"""start playing the game""",2
+"""align the boat!""",3
+"""close the game and return to menu immediately""",1
+"""quit game and return immediately""",1
+"""go back to main menu please""",1
+"""leave to main menu.""",1
+"""leave to main menu""",1
+"""close the game and return to menu immediately""",1
+"""close the game and return to menu""",1
+"""load another environment now""",4
+"""resume game!""",2
+"""leave to main menu""",1
+"""align the boat.""",3
+"""quit game and return""",1
+"""adjust kayak to arrow please""",3
+"""activate the pause menu""",0
+"""position the boat with the pointer please""",3
+"""begin the mission immediately""",2
+"""change the environment.""",4
+"""let's play immediately""",2
+"""change to another place!""",4
+"""load another environment""",4
+"""bring up the pause menu""",0
+"""close the game and return to menu please""",1
+"""resume game.""",2
+"""pause the game now.""",0
+"""show pause screen.""",0
+"""change to another place""",4
+"""activate the pause menu!""",0
+"""leave to main menu please""",1
+"""show pause screen immediately""",0
+"""change scenery""",4
+"""let's play.""",2
+"""position the boat with the pointer""",3
+"""align the boat.""",3
+"""leave to main menu!""",1
+"""change the environment.""",4
+"""change the environment""",4
+"""activate the pause menu please""",0
+"""let's play now""",2
+"""exit to the main screen now""",1
+"""resume game immediately""",2
+"""show pause screen now""",0
+"""load another environment please""",4
+"""position the boat with the pointer.""",3
+"""position the boat with the pointer immediately""",3
+"""start playing the game!""",2
+"""load another environment immediately""",4
+"""go back to main menu now""",1
+"""start the game now now""",2
+"""change the environment.""",4
+"""pause the game now please""",0
+"""load another environment!""",4
+"""resume game immediately""",2
+"""show pause screen""",0
+"""match boat direction to arrow now""",3
+"""let's play now""",2
+"""load another environment immediately""",4
+"""change scenery please""",4
+"""resume game please""",2
+"""let's play!""",2
+"""pause the game now!""",0
+"""position the boat with the pointer now""",3
+"""open the pause menu""",0
+"""go back to main menu""",1
+"""close the game and return to menu immediately""",1
+"""go back to main menu!""",1
+"""activate the pause menu please""",0
+"""match boat direction to arrow now""",3
+"""pause the game now now""",0
+"""begin the mission please""",2
+"""close the game and return to menu please""",1
+"""exit to the main screen please""",1
+"""change scenery""",4
+"""activate the pause menu""",0
+"""start playing the game now""",2
+"""adjust kayak to arrow now""",3
+"""match boat direction to arrow immediately""",3
+"""activate the pause menu please""",0
+"""change the environment immediately""",4
+"""start playing the game.""",2
+"""change scenery immediately""",4
+"""go back to main menu please""",1
+"""leave to main menu please""",1
+"""position the boat with the pointer immediately""",3
+"""quit game and return please""",1
+"""let's play!""",2
+"""start playing the game!""",2
+"""switch to a different map""",4
+"""begin the mission!""",2
+"""match boat direction to arrow""",3
